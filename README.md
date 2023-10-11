@@ -7,3 +7,4 @@ chilli flakes
 red sauce
 oregano
 tomato sauce
+onion
